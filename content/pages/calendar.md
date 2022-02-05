@@ -4,19 +4,195 @@ title: Calendar
 uid: 8f58b3a8-1d30-6b4b-72d8-99f7493788aa
 ---
 
-| Lec # | Topics | KEY DATES |
-| --- | --- | --- |
-| 1 | Historical and Geographical Legacies | &nbsp; |
-| 2 | 1949-1969: Alliance With the Soviet Union and Its Collapse | &nbsp; |
-| 3 | 1969-1981: Alignment With the U.S. | &nbsp; |
-| 4 | 1982-1990s: Nonaligned Foriegn Policy | &nbsp; |
-| 5 | Foriegn Policy Making | Quiz 1 due |
-| 6 | Use of Force | &nbsp; |
-| 7 | Rising China's Grand Strategy | &nbsp; |
-| 8 | Integration With Intergovernmental Organizations | &nbsp; |
-| 9 | Taiwan | Quiz 2 due |
-| 10 | Trade and Economic Relations | &nbsp; |
-| 11 | Territorial Disputes and Ambitions | &nbsp; |
-| 12 | Regional Engagement and New Diplomacy |  {{< br >}}{{< br >}} Quiz 3 due {{< br >}}{{< br >}} In-class exam (during section) due two days after lecture 12 {{< br >}}{{< br >}}  |
-| 13 | Relations With the United States | Take-home exercise out |
-| 14 | Relations With Japan | Take-home exercise due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Historical and Geographical Legacies
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+1949-1969: Alliance With the Soviet Union and Its Collapse
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+1969-1981: Alignment With the U.S.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+1982-1990s: Nonaligned Foriegn Policy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Foriegn Policy Making
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Use of Force
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Rising China's Grand Strategy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Integration With Intergovernmental Organizations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Taiwan
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Trade and Economic Relations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Territorial Disputes and Ambitions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Regional Engagement and New Diplomacy
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quiz 3 due
+
+In-class exam (during section) due two days after lecture 12
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Relations With the United States
+{{< tdclose >}}
+{{< tdopen >}}
+Take-home exercise out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Relations With Japan
+{{< tdclose >}}
+{{< tdopen >}}
+Take-home exercise due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
